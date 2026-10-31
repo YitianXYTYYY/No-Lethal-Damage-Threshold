@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>No Lethal Damage Threshold Forked (xytyyy)</name>
+	<author>Jdalt40</author>
+	<supportedVersions>
+		<li>1.7</li>
+	</supportedVersions>
+	<packageId>xytyyy.nldt</packageId>
+	<description>
+Did you know pawns can only have a total of 150 damage across all body parts before the pawn dies for no reason? This mod fixes that by telling ShouldBeDeadFromLethalDamageThreshold to go **** itself!
+Should be compatible with all mods and is save compatible!
+	</description>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+</ModMetaData>

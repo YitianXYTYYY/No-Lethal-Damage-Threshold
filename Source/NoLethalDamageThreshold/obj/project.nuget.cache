@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VMss9rqNwwM=",
+  "success": true,
+  "projectFilePath": "C:\\Games\\steamapps\\common\\RimWorld\\Mods\\No-Lethal-Damage-Threshold\\Source\\NoLethalDamageThreshold\\NoLethalDamageThreshold.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xuyit\\.nuget\\packages\\krafs.rimworld.ref\\1.7.4990-unstable\\krafs.rimworld.ref.1.7.4990-unstable.nupkg.sha512",
+    "C:\\Users\\xuyit\\.nuget\\packages\\lib.harmony\\3.0.0-rc.4\\lib.harmony.3.0.0-rc.4.nupkg.sha512"
+  ],
+  "logs": []
+}
